@@ -24,7 +24,7 @@
     "http-status-codes": "^2.3.0",
     "jsonwebtoken": "^9.0.3",
     "multer": "^2.1.1",
-    "mysql2": "^3.18.2",
+    "mysql2": "^3.24.6",
     "pdf-parse": "^2.4.5",
     "pdf.js-extract": "^1.0.1",
     "pdf2json": "^4.1.0"
